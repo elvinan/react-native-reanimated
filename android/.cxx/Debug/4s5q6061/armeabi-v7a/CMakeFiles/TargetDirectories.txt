@@ -1,0 +1,3 @@
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/armeabi-v7a/CMakeFiles/reanimated.dir
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/armeabi-v7a/CMakeFiles/rebuild_cache.dir

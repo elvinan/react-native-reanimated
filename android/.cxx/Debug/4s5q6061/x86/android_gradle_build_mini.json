@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/x86/prefab/lib/i686-linux-android/cmake/ReactAndroid/ReactAndroidConfig.cmake",
+    "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/x86/prefab/lib/i686-linux-android/cmake/ReactAndroid/ReactAndroidConfigVersion.cmake",
+    "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/x86/prefab/lib/i686-linux-android/cmake/fbjni/fbjniConfig.cmake",
+    "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/x86/prefab/lib/i686-linux-android/cmake/fbjni/fbjniConfigVersion.cmake",
+    "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/elvin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/elvin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "reanimated::@6890427a1f51a3e7e1df": {
+      "artifactName": "reanimated",
+      "abi": "x86",
+      "output": "/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/build/intermediates/cxx/Debug/4s5q6061/obj/x86/libreanimated.so",
+      "runtimeFiles": [
+        "/Users/elvin/.gradle/caches/transforms-3/0dbf4dabb91061eeb33ef42feb56454e/transformed/jetified-react-android-0.72.7-debug/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/elvin/.gradle/caches/transforms-3/0dbf4dabb91061eeb33ef42feb56454e/transformed/jetified-react-android-0.72.7-debug/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/elvin/.gradle/caches/transforms-3/0dbf4dabb91061eeb33ef42feb56454e/transformed/jetified-react-android-0.72.7-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/elvin/.gradle/caches/transforms-3/0dbf4dabb91061eeb33ef42feb56454e/transformed/jetified-react-android-0.72.7-debug/prefab/modules/reactnativejni/libs/android.x86/libreactnativejni.so",
+        "/Users/elvin/.gradle/caches/transforms-3/24792c078e7b09c9ec98a7fd12121bd8/transformed/jetified-fbjni-0.3.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/elvin/.gradle/caches/transforms-3/0dbf4dabb91061eeb33ef42feb56454e/transformed/jetified-react-android-0.72.7-debug/prefab/modules/jscexecutor/libs/android.x86/libjscexecutor.so"
+      ]
+    }
+  }
+}

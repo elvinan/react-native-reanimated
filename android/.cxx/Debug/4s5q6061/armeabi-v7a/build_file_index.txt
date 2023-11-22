@@ -1,0 +1,5 @@
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/armeabi-v7a/prefab/lib/arm-linux-androideabi/cmake/ReactAndroid/ReactAndroidConfig.cmake
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/armeabi-v7a/prefab/lib/arm-linux-androideabi/cmake/ReactAndroid/ReactAndroidConfigVersion.cmake
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/armeabi-v7a/prefab/lib/arm-linux-androideabi/cmake/fbjni/fbjniConfig.cmake
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/.cxx/Debug/4s5q6061/prefab/armeabi-v7a/prefab/lib/arm-linux-androideabi/cmake/fbjni/fbjniConfigVersion.cmake
+/Users/elvin/Documents/sophronitis/sophrontic-app/node_modules/react-native-reanimated/android/CMakeLists.txt

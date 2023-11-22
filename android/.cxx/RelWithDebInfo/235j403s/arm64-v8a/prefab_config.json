@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/elvin/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.0.0/f2702b5ca13df54e3ca92f29d6b403fb6285d8df/cli-2.0.0-all.jar",
+  "packages": [
+    "/Users/elvin/.gradle/caches/transforms-3/5df01cb7a551cef33abf430bef77f912/transformed/jetified-react-android-0.72.7-release/prefab",
+    "/Users/elvin/.gradle/caches/transforms-3/24792c078e7b09c9ec98a7fd12121bd8/transformed/jetified-fbjni-0.3.0/prefab"
+  ]
+}
